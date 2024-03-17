@@ -1,7 +1,6 @@
 # Importing our custom variables/functions from backend
 from typing import Union
 
-from backend.classes.dice_formatting_mode import FormattingMode, format_dice_roll, autoformatter
 from backend.utils.logging import log
 from backend.utils.embed_templates import embed_template, error_template
 
